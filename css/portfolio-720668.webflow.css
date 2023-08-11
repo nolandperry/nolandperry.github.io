@@ -111,6 +111,7 @@ a {
   background-position-y: 50%;
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
   align-items: flex-start;
   padding-top: 25px;
   padding-left: 48px;
