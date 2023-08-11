@@ -107,9 +107,10 @@ a {
 .body {
   background-color: #151515;
   background-image: url('../images/dots.svg');
-  background-position: 0 0;
-  background-size: auto;
-  justify-content: center;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
   align-items: flex-start;
   padding-top: 25px;
   padding-left: 48px;
