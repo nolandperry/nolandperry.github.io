@@ -106,7 +106,7 @@ a {
 
 .body {
   background-color: #151515;
-  background-image: url('../images/dots.png');
+  background-image: url('../images/dots.svg');
   background-position: 0 0;
   background-size: auto;
   justify-content: center;
