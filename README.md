@@ -1,2 +1,2 @@
 # nolandperry.github.io
-My personal portfolio website exported from Webflow
+My personal portfolio website exported from Framer
